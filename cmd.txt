@@ -1,0 +1,5 @@
+ php please make:user
+
+	user
+	dnb@outlook.com
+	pwd: 12345678
